@@ -5,4 +5,5 @@ This repository contains my progress on
 
 The current state:
 
-- [ ] Chapter 1: Getting Stated
+- [X] Chapter 1: Getting Stated
+- [ ] Chapter 2: CSS Styling
