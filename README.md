@@ -10,7 +10,7 @@ The current state:
 - [X] [Chapter 2: CSS Styling](https://nextjs.org/learn/dashboard-app/css-styling)
 - [X] [Chapter 3: Optimizing Fonts and Images](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
 - [X] [Chapter 4: Creating Layouts and Pages](https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages)
-- [ ] [Chapter 5: Navigating Between Pages](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
+- [X] [Chapter 5: Navigating Between Pages](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
 - [ ] [Chapter 6: Setting Up Your Database](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
 - [ ] [Chapter 7: Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
 - [ ] [Chapter 8: Static and Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
