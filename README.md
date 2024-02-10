@@ -16,7 +16,7 @@ The current state:
 - [X] [Chapter 8: Static and Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
 - [X] [Chapter 9: Streaming](https://nextjs.org/learn/dashboard-app/streaming)
 - [X] [Chapter 10: Partial Prerendering (Optional)](https://nextjs.org/learn/dashboard-app/partial-prerendering)
-- [ ] [Chapter 11: Adding Search and Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
+- [X] [Chapter 11: Adding Search and Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
 - [ ] [Chapter 12: Mutating Data](https://nextjs.org/learn/dashboard-app/mutating-data)
 - [ ] [Chapter 13: Handling Errors](https://nextjs.org/learn/dashboard-app/error-handling)
 - [ ] [Chapter 14: Improving Accessibility](https://nextjs.org/learn/dashboard-app/improving-accessibility)
