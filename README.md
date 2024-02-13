@@ -19,6 +19,6 @@ The current state:
 - [X] [Chapter 11: Adding Search and Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
 - [X] [Chapter 12: Mutating Data](https://nextjs.org/learn/dashboard-app/mutating-data)
 - [X] [Chapter 13: Handling Errors](https://nextjs.org/learn/dashboard-app/error-handling)
-- [ ] [Chapter 14: Improving Accessibility](https://nextjs.org/learn/dashboard-app/improving-accessibility)
+- [X] [Chapter 14: Improving Accessibility](https://nextjs.org/learn/dashboard-app/improving-accessibility)
 - [ ] [Chapter 15: Adding Authentication](https://nextjs.org/learn/dashboard-app/adding-authentication)
 - [ ] [Chapter 16: Adding Metadata](https://nextjs.org/learn/dashboard-app/adding-metadata)
