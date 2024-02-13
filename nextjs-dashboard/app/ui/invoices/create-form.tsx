@@ -47,7 +47,9 @@ export default function Form({ customers }: { customers: CustomerField[] }) {
           <div id="customer-error" aria-live="polite" aria-atomic="true">
             {state.errors?.customerId &&
               state.errors.customerId.map((error: string) => (
-                <p className="mt-2 text-sm text-red-500" key={error}>{error}</p>
+                <p className="mt-2 text-sm text-red-500" key={error}>
+                  {error}
+                </p>
               ))}
           </div>
         </div>
@@ -74,7 +76,9 @@ export default function Form({ customers }: { customers: CustomerField[] }) {
           <div id="amount-error" aria-live="polite" aria-atomic="true">
             {state.errors?.amount &&
               state.errors.amount.map((error: string) => (
-                <p className="mt-2 text-sm text-red-500" key={error}>{error}</p>
+                <p className="mt-2 text-sm text-red-500" key={error}>
+                  {error}
+                </p>
               ))}
           </div>
         </div>
@@ -123,12 +127,16 @@ export default function Form({ customers }: { customers: CustomerField[] }) {
           <div id="status-error" aria-live="polite" aria-atomic="true">
             {state.errors?.status &&
               state.errors.status.map((error: string) => (
-                <p className="mt-2 text-sm text-red-500" key={error}>{error}</p>
+                <p className="mt-2 text-sm text-red-500" key={error}>
+                  {error}
+                </p>
               ))}
           </div>
         </fieldset>
         <div id="all-error" aria-live="polite" aria-atomic="true">
-          {state.message && <p className="mt-2 text-sm text-red-500">{state.message}</p>}
+          {state.message && (
+            <p className="mt-2 text-sm text-red-500">{state.message}</p>
+          )}
         </div>
       </div>
       <div className="mt-6 flex justify-end gap-4">
